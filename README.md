@@ -1,3 +1,5 @@
+sudo nano /usr/lib/plexmediaserver/Resources/Profiles/Chromecast.xml
+
 # Customized Plex media server profiles
 
 On Linux: install/override profiles in `/usr/lib/plexmediaserver/Resources/Profiles`
